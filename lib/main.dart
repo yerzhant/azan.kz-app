@@ -11,7 +11,7 @@ class AzanApp extends StatelessWidget {
   Widget build(BuildContext context) {
     FlutterStatusbarcolor.setStatusBarColor(Color(0xF01BA2DD));
     return MaterialApp(
-      title: 'Азан.қаз',
+      title: 'Azan.kz',
       home: _HomePage(),
     );
   }

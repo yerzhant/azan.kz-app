@@ -8,7 +8,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="Азан.қаз"
+        android:label="Azan.kz"
         android:icon="@mipmap/logo">
         <activity
             android:name=".MainActivity"
